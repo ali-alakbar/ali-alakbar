@@ -4,10 +4,18 @@ My love for the web development is unquenchable, due to this am always pushing f
 I also love being a team player because it’s the fastest and most efficient way to solve any problem. 
 I work as a web developer at start-up company in Singapore.
 Give me a shout at ali.akbar@myAkbar.com
-My Portfolio: https://myAkbar.com
 
-- My Work
-👀 
+
+- Summary 👀
+» Tech Stacks: JavaScript, ReactJS, SCSS/SASS, HTML5, CSS3, Python. 
+» Databases: MySQL.
+» Collaboration Tools: Git, GitHub.
+» API Specs: JSON, Retrofit
+» Testing: Unit Testing (Jest).
+★ Projects 23
+» My Portfolio: https://myAkbar.com
+
+ 
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
