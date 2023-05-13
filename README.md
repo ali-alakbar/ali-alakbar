@@ -1,7 +1,7 @@
 <h1 align="center">Hey there</h1>
 <h3 align="center">If you like my projects, you will find more below.</h3>
 
-<img align="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/ali-alakbar/ali-alakbar/assets/84961269/7f68d8fd-6c2e-466f-b4cf-81925ad945ae)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
 
