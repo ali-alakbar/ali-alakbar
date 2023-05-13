@@ -1,26 +1,29 @@
-- Ali Akbar
-👋 Hi, I’m @ali-alakbar. I am a Software Engineer specifically web with experience working with various tools to produce quality products that meet the needs of people thereby making their lives easier.
-My love for the web development is unquenchable, due to this am always pushing forth to learn more even while schooling. 
-I also love being a team player because it’s the fastest and most efficient way to solve any problem. 
-I work as a web developer at start-up company in Singapore.
-Give me a shout at ali.akbar@myAkbar.com
+<h1 align="center">Hey there Ali Almansoory</h1>
+<h3 align="center">If you like my projects, you will find more below.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
 
-- Summary 👀
-» Tech Stacks: JavaScript, ReactJS, SCSS/SASS, HTML5, CSS3, Python. 
-» Databases: MySQL.
-» Collaboration Tools: Git, GitHub.
-» API Specs: JSON, Retrofit
-» Testing: Unit Testing (Jest).
-★ Projects 23
-» My Portfolio: https://myAkbar.com
+- 🔭 I’m currently working in **BenchMark Digital Solutions**
 
- 
-<!-- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
-<!---
-ali-alakbar/ali-alakbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [https://github.com/ali-alakbar?tab=repositories](https://github.com/ali-alakbar?tab=repositories)
+
+- 📝 I regularly write contents on [https://instagram.com/alakbar_iq](https://instagram.com/alakbar_iq)
+
+- 💬 Ask me about **ReactJS, NextJS, and Rails**
+
+- 📫 How to reach me **https://zeonn.net**
+
+- ⚡ Fun fact **I am interested in human and robots**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ali-akbar-6a6570185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akbar-6a6570185" height="30" width="40" /></a>
+<a href="https://instagram.com/alakbar_iq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alakbar_iq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aliakbar-zv4jv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliakbar-zv4jv" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-alakbar&show_icons=true&locale=en&layout=compact" alt="ali-alakbar" /></p>
+
