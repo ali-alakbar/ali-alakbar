@@ -1,4 +1,4 @@
-<h1 align="center">Hey there Ali Almansoory</h1>
+<h1 align="center">Hey there</h1>
 <h3 align="center">If you like my projects, you will find more below.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
