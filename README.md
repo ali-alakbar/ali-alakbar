@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-alakbar?tab=repositories](https://github.com/ali-alakbar?tab=repositories)
 
-- 📝 I regularly write contents on [https://instagram.com/alakbar_iq](https://instagram.com/alakbar_iq)
-
 - 💬 Ask me about **ReactJS, NextJS, and Rails**
 
 - 📫 How to reach me **https://zeonn.net**
