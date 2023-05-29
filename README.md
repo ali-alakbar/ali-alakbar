@@ -1,20 +1,46 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQH6AZZxnFr_gw/profile-displaybackgroundimage-shrink_350_1400/0/1683800933458?e=1689206400&v=beta&t=nt8XIaOCM8jTj4wlGWQ6YUsLyDDWg31GbhU4R-6CKJQ)
-<h1 align="center">Hey there</h1>
-<h3 align="center">If you like my projects, you will find more below.</h3>
+<h3 align="center">
+
+<img align="left" width="150" height="150" alt="Pratikshya" src="https://github.com/Pratikxya/Pratikxya/raw/master/assets/dp.png"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Pratikshya's profile!
+</h3>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
+
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pratikshyapoudel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
+<a href="https://github.com/Pratikxya"><img src="https://img.shields.io/github/followers/Pratikxya?label=Follow&logo=github&style=for-the-badge"><a>
+  
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
+  
+<br>
+
+  
+![Snake animation](https://github.com/pratikxya/pratikxya/blob/output/github-contribution-grid-snake.svg)
+  <hr/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <img align="right" alt="Coder GIF" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="250">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
-
-- 🔭 I’m currently working in **BenchMark Digital Solutions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ali-alakbar?tab=repositories](https://github.com/ali-alakbar?tab=repositories)
-
-- 💬 Ask me about **ReactJS, NextJS, and Rails**
-
-- 📫 How to reach me **https://zeonn.net**
-
-- ⚡ Fun fact **I am interested in human and robots**
+  
+```javascript
+const Ali = {
+  pronouns: "he" | "him",
+  code: [JS, TS, Ruby, SASS],
+  tech: [next, react, rails, tailwind],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  involvement: {
+    company1: { 'name': 'Greenie Web', 'currentlyWorking': false, 'timespan': '5m' },
+    company2: { 'name': 'Benchmark Digital Solutions', 'currentlyWorking': true, 'timespan': '^5m' },
+  },
+};
+```
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
