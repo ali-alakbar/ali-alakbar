@@ -1,9 +1,9 @@
 <h3 align="center">
 
-<img align="left" width="150" height="150" alt="Pratikshya" src="https://github.com/Pratikxya/Pratikxya/raw/master/assets/dp.png"/>
+<img align="left" width="150" height="150" alt="Ali" src="211719630_5317873365008758_4788127994562540337_n.jpg" style="border: solid 1px transparent; border-radius: 50%; padding:0"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to Pratikshya's profile!
+  Welcome to Ali's profile!
 </h3>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
@@ -11,11 +11,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pratikshyapoudel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
-<a href="https://github.com/Pratikxya"><img src="https://img.shields.io/github/followers/Pratikxya?label=Follow&logo=github&style=for-the-badge"><a>
+<a href="https://www.linkedin.com/in/ali-akbar-6a6570185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
+<a href="https://github.com/ali-alakbar"><img src="https://img.shields.io/github/followers/Pratikxya?label=Follow&logo=github&style=for-the-badge"><a>
   
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
   
 <br>
 
@@ -41,6 +40,7 @@ const Ali = {
 };
 ```
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
