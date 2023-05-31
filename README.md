@@ -34,8 +34,16 @@ const Ali = {
   tech: [next, react, rails, tailwind],
   architecture: ["microservices", "event-driven", "design system pattern"],
   involvement: {
-    company1: { 'name': 'Greenie Web', 'currentlyWorking': false, 'timespan': '5m' },
-    company2: { 'name': 'Benchmark Digital Solutions', 'currentlyWorking': true, 'timespan': '^5m' },
+    company1: { 
+       'name': 'Greenie Web', 
+       'currentlyWorking': false, 
+       'timespan': '5m' 
+    },
+    company2: { 
+       'name': 'Benchmark Digital Solutions', 
+       'currentlyWorking': true, 
+       'timespan': '+5m' 
+    },
   },
 };
 ```
