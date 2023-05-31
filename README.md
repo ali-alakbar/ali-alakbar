@@ -6,7 +6,7 @@
   Welcome to Ali's profile!
 </h3>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+computer+guru;full+stack+developer;full+time+learner;Rails+developer;TS|JS+developer;"></a>
 
 </p>
 
