@@ -32,13 +32,19 @@ const Ali = {
   pronouns: "he" | "him",
   code: [JS, TS, Ruby, SASS],
   tech: [next, react, rails, tailwind],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: [
+      "microservices",
+      "event-driven",
+      "design system pattern"
+    ],
+
   involvement: {
     company1: { 
        'name': 'Greenie Web', 
        'currentlyWorking': false, 
        'timespan': '5m' 
     },
+
     company2: { 
        'name': 'Benchmark Digital Solutions', 
        'currentlyWorking': true, 
