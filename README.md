@@ -1,6 +1,6 @@
 <h3 align="center">
 
-<img align="left" width="150" height="150" alt="Ali" src="211719630_5317873365008758_4788127994562540337_n.jpg" style="border: solid 1px transparent; border-radius: 50%; padding:0"/>
+<img align="left" width="150" height="150" alt="Ali" src="https://avatars.githubusercontent.com/u/84961269?s=400&u=af8997102269284427f3ff38135599022a73a887&v=4" style="border: solid 1px transparent; border-radius: 50%; padding:0"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Ali's profile!
