@@ -48,7 +48,7 @@ const Ali = {
     company2: { 
        'name': 'Benchmark Digital Solutions', 
        'currentlyWorking': true, 
-       'timespan': '+5m' 
+       'timespan': '+14m' 
     },
   },
 };
