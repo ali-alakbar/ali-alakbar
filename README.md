@@ -55,6 +55,23 @@ const Ali = {
 ```
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
+  <summary>✨ Weekly commit summary </summary>
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Monday** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |20 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.0%|
+|Tuesday                  |24 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.63%|
+|Wednesday                |18 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.47%|
+|Thursday                 |43 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|22.63%|
+|Friday                   |33 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.37%|
+|Saturday                 |38 commits          |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.0%|
+|Sunday                   |15 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|7.89%|
+| | | | |
+
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,3 +88,4 @@ const Ali = {
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-alakbar&theme=merko&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
+![](wave.svg)
