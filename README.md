@@ -17,7 +17,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-akbar-6a6570185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 <a href="https://github.com/ali-alakbar"><img src="https://img.shields.io/github/followers/Pratikxya?label=Follow&logo=github&style=for-the-badge"><a>
-  
+<br/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
 </p>
   
 <br>
@@ -34,9 +35,9 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
-
-
+  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+  
   
 ```javascript
 const Ali = {
@@ -50,21 +51,43 @@ const Ali = {
     ],
 
   involvement: {
-    company1: { 
+    company1: {
        'name': 'Greenie Web', 
-       'currentlyWorking': false, 
+       'currentlyWorking': false,
+       'Capacity': 'Web Developer',
        'timespan': '+6m' 
     },
 
     company2: { 
        'name': 'Benchmark Digital Solutions', 
-       'currentlyWorking': true, 
+       'currentlyWorking': true,
+       'Capacity': 'Full stack',
        'timespan': '+16m' 
     },
+
+    social-media: [
+      { 
+       'name': 'Instagram', 
+       'currentlyWorking': true,
+       'Capacity': 'Content Creator',
+       'timespan': '+17m',
+       'followers': '+38,000',
+       'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
+      },
+
+    Courses: [
+      { 
+       'name': 'Web development fundamentals course', 
+       'currentlyWorking': true,
+       'Capacity': 'Instructor',
+       'timespan': '+14m',
+       'resource': 'https://myakbar.com',
+      },
+    ]
   },
 };
 ```
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alakbar&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alakbar" /> </p>
   <summary>✨ Weekly commit summary </summary>
 
