@@ -65,7 +65,7 @@ const Ali = {
        'timespan': '+16m' 
     },
 
-    social-media: [
+    socialMedia: [
       { 
        'name': 'Instagram', 
        'currentlyWorking': true,
