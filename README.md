@@ -53,13 +53,13 @@ const Ali = {
     company1: { 
        'name': 'Greenie Web', 
        'currentlyWorking': false, 
-       'timespan': '5m' 
+       'timespan': '+6m' 
     },
 
     company2: { 
        'name': 'Benchmark Digital Solutions', 
        'currentlyWorking': true, 
-       'timespan': '+14m' 
+       'timespan': '+16m' 
     },
   },
 };
