@@ -12,6 +12,7 @@
 
 ![Snake animation](https://github.com/ali-alakbar/ali-alakbar/blob/output/github-contribution-grid-snake.svg)
 
+  ![](wave.svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-akbar-6a6570185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
@@ -20,6 +21,7 @@
 </p>
   
 <br>
+
 
   
 <picture>
@@ -93,8 +95,8 @@ const Ali = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-alakbar&langs_count=8&theme=github_dark" alt="ali-alakbar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-alakbar&show_icons=true&locale=en" alt="ali-alakbar" /></p>
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-alakbar&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-alakbar&theme=merko&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ali-alakbar&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 
 ![](wave.svg)
