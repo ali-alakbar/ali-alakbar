@@ -75,7 +75,7 @@ const Ali = {
        'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
       },
 
-    Courses: [
+    courses: [
       { 
        'name': 'Web development fundamentals course', 
        'currentlyWorking': true,
