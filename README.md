@@ -73,7 +73,8 @@ const Ali = {
        'timespan': '+17m',
        'followers': '+38,000',
        'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
-      },
+      }
+    ],
 
     courses: [
       { 
@@ -82,8 +83,8 @@ const Ali = {
        'Capacity': 'Instructor',
        'timespan': '+14m',
        'resource': 'https://myakbar.com',
-      },
-    ]
+      }
+    ]  
   },
 };
 ```
