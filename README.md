@@ -52,14 +52,16 @@ const Ali = {
 
   involvement: {
     company1: {
-       'name': 'Greenie Web', 
+       'name': 'Greenie Web',
+       'location': 'Singapore',
        'currentlyWorking': false,
        'Capacity': 'Web Developer',
        'timespan': '+6m' 
     },
 
     company2: { 
-       'name': 'Benchmark Digital Solutions', 
+       'name': 'Benchmark Digital Solutions',
+       'location': 'UAE',
        'currentlyWorking': true,
        'Capacity': 'Full stack',
        'timespan': '+16m' 
