@@ -121,8 +121,7 @@ const Ali = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-alakbar&langs_count=8&theme=github_dark" alt="ali-alakbar" /></p>
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-alakbar&show_icons=true&theme=radical)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ali-alakbar&theme=neon-dark&hide_border=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ali-alakbar&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 
 ![](wave.svg)
