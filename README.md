@@ -56,7 +56,9 @@ const Ali = {
        'location': 'Singapore',
        'currentlyWorking': false,
        'Capacity': 'Web Developer',
-       'timespan': '+6m' 
+       'timespan': '+6m',
+       'URL': 'https://www.greenieweb.co',
+       'LinkedIn': 'https://www.linkedin.com/company/greenie-web'
     },
 
     company2: { 
@@ -64,7 +66,9 @@ const Ali = {
        'location': 'UAE',
        'currentlyWorking': true,
        'Capacity': 'Full stack',
-       'timespan': '+16m' 
+       'timespan': '+16m',
+       'URL': 'https://www.benchmark.ae',
+       'LinkedIn': 'https://www.linkedin.com/company/benchmark-digital-solution',
     },
 
     socialMedia: [
@@ -75,6 +79,7 @@ const Ali = {
        'timespan': '+17m',
        'followers': '+46,000',
        'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
+       'URL': 'https://instagram.com/alakbar_iq'
       }
     ],
 
