@@ -77,7 +77,7 @@ const Ali = {
        'currentlyWorking': true,
        'Capacity': 'Content Creator',
        'timespan': '+17m',
-       'followers': '+46,000',
+       'followers': '+50,000',
        'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
        'URL': 'https://instagram.com/alakbar_iq'
       }
