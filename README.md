@@ -69,8 +69,8 @@ const Ali = {
        'timespan': '+16m',
        'URL': 'https://www.benchmark.ae',
        'LinkedIn': 'https://www.linkedin.com/company/benchmark-digital-solution',
-    },
-  },
+    }
+  }
 };
 ```
 
