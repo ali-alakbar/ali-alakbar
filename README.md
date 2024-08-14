@@ -70,28 +70,6 @@ const Ali = {
        'URL': 'https://www.benchmark.ae',
        'LinkedIn': 'https://www.linkedin.com/company/benchmark-digital-solution',
     },
-
-    socialMedia: [
-      { 
-       'name': 'Instagram', 
-       'currentlyWorking': true,
-       'Capacity': 'Content Creator',
-       'timespan': '+17m',
-       'followers': '+50,000',
-       'areas': ['Computer Science', 'Neuroscience', 'Reading books' ]
-       'URL': 'https://instagram.com/alakbar_iq'
-      }
-    ],
-
-    courses: [
-      { 
-       'name': 'Web development fundamentals course', 
-       'currentlyWorking': true,
-       'Capacity': 'Instructor',
-       'timespan': '+14m',
-       'resource': 'https://myakbar.com',
-      }
-    ]  
   },
 };
 ```
