@@ -44,6 +44,7 @@ const Ali = {
   pronouns: "he" | "him",
   code: [JS, TS, Ruby, SASS],
   tech: [next, react, rails, tailwind],
+  virsionControlSystem: [git, github],
   architecture: [
       "microservices",
       "event-driven",
@@ -68,7 +69,7 @@ const Ali = {
        'Capacity': 'Full stack',
        'timespan': '+16m',
        'URL': 'https://www.benchmark.ae',
-       'LinkedIn': 'https://www.linkedin.com/company/benchmark-digital-solution',
+       'LinkedIn': 'https://www.linkedin.com/company/benchmark-digital-solution'
     }
   }
 };
