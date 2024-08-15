@@ -9,7 +9,6 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+computer+guru;full+stack+developer;full+time+learner;Rails+developer;TS|JS+developer;"></a>
 </p>
 
-
 ![Snake animation](https://github.com/ali-alakbar/ali-alakbar/blob/output/github-contribution-grid-snake.svg)
 
   ![](wave.svg)
